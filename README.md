@@ -45,6 +45,9 @@ Operations teams can search calls and drill down in details very easily using an
 
 <img style="width:100%;" src="images/dashboard-tab/dashboard-agents.png">
 
+<img style="width:100%;" src="images/dashboard-tab/agents-location.png">
+
+
 
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
