@@ -34,7 +34,7 @@ Operations teams can search calls and drill down in details very easily using an
 
 ## Call Transcription
 
-<img style="width:100%;" src="images/transcript-tab/transcript-page.png">
+<img style="width:100%;" src="images/transcript-tab/transcript.png">
 
 <img style="width:100%;" src="images/transcript-tab/chat-monitoring.png">
 
