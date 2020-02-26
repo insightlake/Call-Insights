@@ -29,7 +29,22 @@ Fraud solution monitors every call, creates risk scores and capture relevant det
 
 ## Call Exploration
 Operations teams can search calls and drill down in details very easily using an intuitive interface.
-<img style="width:100%;" src="images/callanalytics-dashboard.jpeg">
+
+<img style="width:100%;" src="images/conversation-tab/conversation-page.png">
+
+## Call Transcription
+
+<img style="width:100%;" src="images/transcript-tab/transcript-page.png">
+
+<img style="width:100%;" src="images/transcript-tab/chat-monitoring.png">
+
+<img style="width:100%;" src="images/transcript-tab/realtime-transcript.png">
+
+
+## Dashboard
+
+<img style="width:100%;" src="images/dashboard-tab/dashboard-agents.png">
+
 
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
