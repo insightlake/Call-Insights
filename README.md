@@ -49,7 +49,7 @@ Operations teams can search calls and drill down in details very easily using an
 
 
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
+To learn more, check out [http://www.insightlake.com/call-insights.html](http://www.insightlake.com/call-insights.html)
 
 Installation
 ------
