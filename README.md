@@ -3,6 +3,8 @@ Get insights from live conversations
 
 <img style="width:100%;" src="images/callanalytics.jpeg">
 
+## Note - New LLM powered version will be updated soon...
+
 ## Caller Profile
 Who is the caller - caller ids linked to an account
 Usually locations from where calls come
